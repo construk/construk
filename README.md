@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi to everyone! I'm Francisco, and I'm software developer borned in Málaga.
+I'm Francisco, and I'm software developer borned in Málaga.
 
 I have knowledges in software development in somes languages and technologies like:
 - **Java** (Android, Spring-boot, Hibernate)
