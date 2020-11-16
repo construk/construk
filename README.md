@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**construk/construk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi to everyone! I'm Francisco, and I'm software developer borned in Málaga.
 
-Here are some ideas to get you started:
+I have knowledges in software development in somes languages and technologies like:
+- **Java** (Android, Spring-boot, Hibernate)
+- **C#** (Net Framework, Net Core, WPF, Unity)
+- **JavaScript** (VanilaJS, React)
+- **PHP** (Laravel)
+- **Python** (Django, Odoo)
+- **Markup languages** (HTML, XAML, XML)
+- **Stylesheet languages** (CSS, XSL)
+- **SQL** (MySQL, MariaDB, SQLite)
+- **NoSQL** (Firestore)
+- **Version control system** (Git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
